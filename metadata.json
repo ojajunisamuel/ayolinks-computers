@@ -1,0 +1,6 @@
+{
+  "name": "AYOLINKS COMPUTER",
+  "description": "Professional Computer Sales, Repairs & Technology Services in The Gambia - Opposite Qcell Building, Kairaba Avenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
